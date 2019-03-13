@@ -16,7 +16,7 @@ _使用 Selenium 爬取淘宝商品并用 pyquery 解析得到商品的图片、
 * pyquery
 
  ## 结果
- ![]()
+ ![](https://github.com/gxlibra/taobaoproduct/blob/master/taobao1.PNG)
  
  
  
